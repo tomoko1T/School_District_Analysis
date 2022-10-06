@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 
 ## Overview 
 
@@ -17,7 +17,7 @@ In the data cleaning process, the null values in both reading and math scores we
 - duplicate values found 
     1836
 
-
+Analysis/jupyter notebook is [GitHub Pages](https://github.com/tomoko1T/School_District_Analysis)
 
 ## Summary 
 
