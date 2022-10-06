@@ -11,11 +11,14 @@ The analysis was processed based on the dataset in csv format, and it contains a
 In the data cleaning process, the null values in both reading and math scores were found and removed in the csv.  Data type on the grade was converted from object to integer which made the further analysis be easier.    
 
 - null values found 
-    reading_score    1968
-    math_score        982
+   
+   reading_score    1968
+   
+   math_score           982
 
 - duplicate values found 
-    1836
+   
+   1836
 
 Analysis/jupyter notebook is [GitHub Pages](https://github.com/tomoko1T/School_District_Analysis)
 
